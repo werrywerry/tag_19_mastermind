@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tag_19_mastermind">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/tag_19_mastermind.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
